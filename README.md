@@ -1,0 +1,1 @@
+# odoo-nomad-logistics
